@@ -108,7 +108,7 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 
 /* #Typography and #Common style
 ================================================== */
-	h1, h2, h3, h4, h5, h6 {color: #333333;font-weight: normal;text-transform:none;margin-bottom:10px;}
+	h1, h2, h3, h4, h5, h6 {color: #767676;font-weight: normal;text-transform:none;margin-bottom:10px;}
 	em { font-style: italic; }
 	strong {color: #333333; }
 	small { font-size: 80%; }
