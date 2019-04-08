@@ -368,7 +368,7 @@ body {background: #202020}
 
 .perfil {padding: 30px 0;}
 
-.perfil .col-md-3 span, .col-md-2 span, .formacao-title {font-size: 21px; font-family: 'open_sanslight', Arial, sans-serif; color: #b1b1b1; font-weight: 300; }
+.perfil .col-md-3 span, .col-md-2 span, .formacao-title {font-size: 20px; font-family: 'open_sanslight', Arial, sans-serif; color: #8a7869; font-weight: 300; }
 
 
 .about{
@@ -464,12 +464,12 @@ body {background: #202020}
 
 
 .skill.des .progress {
-	border:1px solid #efefef;
+	border:1px solid #eb874f;
 }
 
 
 .skill.dev .progress {
-	border:1px solid #eb874f;
+	border:1px solid #919191;
 }
 
 .skill.prs .progress {
@@ -489,13 +489,13 @@ body {background: #202020}
 }
 
 
-.skill.des .progress .percentage {
-	background-color: #efefef;
+.skill.des .progress .percentage { 
+	background-color: #eb874f;
 }
 
 
 .skill.dev .progress .percentage {
-	background-color: #eb874f;
+	background-color: #919191;
 }
 
 
@@ -523,6 +523,10 @@ body {background: #202020}
 }
 
 
+.ajuste-bloco-design {
+    margin-top: 80px;
+}
+
 .skill .title{
 
 	-webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
@@ -538,11 +542,11 @@ body {background: #202020}
 
 
 .skill .title.des{
-	border: 1px dashed #efefef;
+    border: 1px dashed #eb874f;    
 }
 
 .skill .title.dev{
-	border: 1px dashed #eb874f;
+	border: 1px dashed #919191;
 }
 
 .skill .title.prs{
