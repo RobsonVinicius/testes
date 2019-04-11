@@ -165,13 +165,14 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	}
 	
 	
-	
-	
+	hr {
+		border-top: 2px dotted #cdcbcb;
+	}	
 	
 	.main-title .divider{
 	  left: 30px;
-      position: absolute;
-      top: 50px;
+		position: absolute;
+		top: 50px;
 		
 	}
 	
