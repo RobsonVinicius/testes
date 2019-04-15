@@ -189,12 +189,14 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 		font-size:15px;
 	}
 
-	.portfolio h2 {
+	.portfolio h2, .contact h2 {
 		font-size: 20px;
 		font-family: 'open_sanslight', Arial, sans-serif;
 		color: #8a7869;
 		font-weight: 300;
 	}
+
+
 	
 	
 	.divider-m{
