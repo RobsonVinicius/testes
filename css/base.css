@@ -130,6 +130,8 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	.main-title h1{
 		margin-bottom:10px;
 	}
+
+
 	
 	
 	
@@ -185,6 +187,13 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	
 	.main-title h1{
 		font-size:15px;
+	}
+
+	.portfolio h2 {
+		font-size: 20px;
+		font-family: 'open_sanslight', Arial, sans-serif;
+		color: #8a7869;
+		font-weight: 300;
 	}
 	
 	
@@ -498,7 +507,7 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	.margBMedium{margin-bottom:40px !important;}
 	.margTLMedium{margin-top:50px !important;}
 	.margBLMedium{margin-bottom:50px !important;}
-	.margTop{margin-top:60px !important;}
+	.margTop{margin-top:50px !important;}
 	.margMTop{margin-top:70px !important;}
 	.margLTop{margin-top:80px !important;}
 	.margBottom{margin-bottom:60px !important;}
@@ -517,5 +526,8 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	.margem-base {margin-left: 30px; margin-right: 20px}
 	.topo {margin-top: 15px;}
 	.padding-null {padding-top: -40px;}
+	.content:nth-child(2), .content:nth-child(3) {
+		padding-top: 10px;
+	}
 	
 
